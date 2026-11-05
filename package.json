@@ -1,0 +1,14 @@
+{
+  "name": "web3-arbitrage-calculator",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "A transparent calculator for estimating Web3 arbitrage profitability after fees, slippage, and gas.",
+  "scripts": {
+    "test": "node --test",
+    "start": "npx serve ."
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
